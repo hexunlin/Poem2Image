@@ -1,4 +1,4 @@
-<img width="500" height="500" src="[https://raw.github.com/hexunlin/Poem2Image/master/docs/poem2image.png]"/>
+<img width="500" height="500" src="https://github.com/hexunlin/Poem2Image/blob/main/docs/poem2image.png"/>
 
 File Details:
 
