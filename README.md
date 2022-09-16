@@ -1,6 +1,8 @@
-translate.ipynb: used to translate Chinese poems to English.
+File Details:
 
 Poem2Image.ipynb: used to generate images from poems.
+
+translate.ipynb: used to translate Chinese poems to English.
 
 poetry_EN.txt: 100 CN-EN translated poems.
 
