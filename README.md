@@ -8,4 +8,6 @@ poetry_EN.txt: 100 CN-EN translated poems.
 
 poetry_CN.txt: 100 Original Chinese poems.
 
-output: the folder contains 100 pieces of output images.
+outputs: the folder contains 100 pieces of output images.
+
+docs: the folder contains a report and plots.
