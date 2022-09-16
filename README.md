@@ -1,3 +1,5 @@
+![Results](https://raw.github.com/hexunlin/Poem2Image/master/docs/poem2image.png)
+
 File Details:
 
 Poem2Image.ipynb: used to generate images from poems.
